@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Журнал on MathSem - Компьютерный практикум по математике</title>
+    <link>http://localhost:1313/journal/</link>
+    <description>Recent content in Журнал on MathSem - Компьютерный практикум по математике</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Тестирование с первыми пользователями</title>
+      <link>http://localhost:1313/journal/post-3/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journal/post-3/</guid>
+      <description>&lt;p&gt;Прошло первое тестирование платформы с реальными студентами:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;25 участников из 3 групп&lt;/li&gt;
+&lt;li&gt;Средний балл за лабораторные: 4.2 из 5&lt;/li&gt;
+&lt;li&gt;87% студентов отметили улучшение понимания материала&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Полученные отзывы помогли улучшить:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Систему подсказок&lt;/li&gt;
+&lt;li&gt;Визуализацию сложных концепций&lt;/li&gt;
+&lt;li&gt;Адаптацию под разные уровни подготовки&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Users/MSI/practice-2025-site/public/journal/post-2/index.html&#34;&gt;Читать предыдущий отчет →&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Users/MSI/practice-2025-site/public/index.html&#34;&gt;На главную →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Разработка первых лабораторных работ</title>
+      <link>http://localhost:1313/journal/post-2/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journal/post-2/</guid>
+      <description>&lt;p&gt;На этой неделе сосредоточились на создании первых лабораторных работ:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Линейная алгебра&lt;/strong&gt;: операции с матрицами и решение СЛАУ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Математический анализ&lt;/strong&gt;: построение графиков и вычисление пределов&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Дифференциальные уравнения&lt;/strong&gt;: численные методы решения&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Особое внимание уделялось системе автоматической проверки решений, которая теперь может анализировать не только конечный ответ, но и ход решения.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Users/MSI/practice-2025-site/public/journal/post-3/index.html&#34;&gt;Читать следующий отчет →&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Users/MSI/practice-2025-site/public/journal/post-1/index.html&#34;&gt;Читать предыдущий отчет →&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Users/MSI/practice-2025-site/public/index.html&#34;&gt;На главную →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Старт проекта и первые наброски</title>
+      <link>http://localhost:1313/journal/post-1/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journal/post-1/</guid>
+      <description>&lt;p&gt;В этот день начали работу над проектом MathSem. В течение первой недели:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Определены основные цели и задачи проекта&lt;/li&gt;
+&lt;li&gt;Проведен анализ существующих решений&lt;/li&gt;
+&lt;li&gt;Набросаны первые прототипы интерфейса&lt;/li&gt;
+&lt;li&gt;Выбраны технологии для реализации&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Основной вызов на этом этапе - найти баланс между математической строгостью и удобством интерфейса для студентов.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Users/MSI/practice-2025-site/public/journal/post-2/index.html&#34;&gt;Читать следующий отчет →&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Users/MSI/practice-2025-site/public/index.html&#34;&gt;На главную →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
